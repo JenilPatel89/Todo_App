@@ -9,14 +9,14 @@ Features
 - Task Management: Users can create, view, update, and delete tasks.
 - Multi-User Support: Each user has their own list of tasks, isolated from other users.
 
-- Tech Stack
-----------
+Tech Stack
+--------
 - Frontend: HTML, CSS, Bootstrap
 - Backend: Python, Django
 - Database: SQLite
 - Authentication: Django's built-in authentication system
 
-- Usage
+Usage
 -----
 - Sign Up: Create a new account by clicking on the "Sign Up" button.
 - Log In: Log in with your credentials to access your dashboard.
